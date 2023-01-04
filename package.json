@@ -4,7 +4,7 @@
   "description": "Node Js Crash Course",
   "main": "index.js",
   "scripts": {
-    "test": "node index",
+    "start": "node index",
     "dev": "nodemon index"
   },
   "author": "Piyush Kumar",
