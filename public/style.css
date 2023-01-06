@@ -2,3 +2,19 @@ body{
     background: #333;
     color : #fff;
 }
+h1{
+    text-align: center;
+    margin-top: 200px;
+}
+p{  
+    line-height: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    text-align: justify;
+}
+a{
+    font-style: oblique;
+    color: inherit;
+    text-decoration: underline;
+}
